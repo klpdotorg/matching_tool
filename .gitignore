@@ -15,8 +15,14 @@ var
 sdist
 develop-eggs
 .installed.cfg
-lib
 lib64
+config
+logs
+yui
+web
+*.ini
+*~
+*.tar
 
 # Installer logs
 pip-log.txt
