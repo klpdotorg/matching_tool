@@ -21,7 +21,7 @@ logs
 yui
 web
 *.ini
-*~
+*.~
 *.tar
 
 # Installer logs
