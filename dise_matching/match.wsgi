@@ -15,8 +15,6 @@ os.chdir(abspath)
 
 render = web.template.render('templates/')
 
-db1=web.database(dbn='postgres',user='postgres',pw='hello',db='sikshana')
-db2=web.database(dbn='postgres',user='klp',pw='chang3d1t',db='sikshana')
 
 urls = (
 	'/', 'index',
@@ -26,7 +24,7 @@ urls = (
 )
 
 
-queryvalues={"disecode":"","disename":"","klpcode":"","klpname":"","district":"","block":"","cluster":""}
+queryvalues={"disecode":"","disename":"","klpcode":"","klpname":"","klpdisecode":"","district":"","block":"","cluster":""}
 
 
 class prints:
@@ -87,7 +85,7 @@ class content:
 		fp2=csv.reader(open('/home/brijesh/matching_tool/dise_matching/data/KLP.csv','r'),delimiter='|')
 		klp_school_id=db1.query('select distinct klp_code from dise_match_found')
 		klp_school_ids=[str(row.klp_code) for row in klp_school_id]
-		klp_schools=[row for row in fp2 if row[2].strip().upper() == klp_cluster.strip().upper() and row[3].strip() not in klp_school_ids]
+		klp_schools=[row for row in fp2 if row[2].strip() == klp_cluster.strip() and row[3].strip() not in klp_school_ids]
 
 		return render.content(dise_schools,klp_schools)
 
@@ -103,9 +101,11 @@ class result:
 		queryvalues["disename"]=str(inputs.dise_value).split("|")[1]
 		queryvalues["klpcode"]=str(inputs.klp_value).split("|")[0]
 		queryvalues["klpname"]=str(inputs.klp_value).split("|")[1]
+		queryvalues["klpdisecode"]=str(inputs.klp_value).split("|")[2]
 		
-		db1.query('insert into dise_match_found values($disecode,$disename,$klpcode,$klpname)',queryvalues)
-	
+		db1.query('insert into dise_match_found values($disecode,$disename,$klpcode,$klpname,$klpdisecode)',queryvalues)
+		db1.query('update dise_match_found set flag=case when cast(klp_dise_code as text) !=trim($disecode) then 1 else 0 end',queryvalues)
+
         raise web.seeother('/content/'+str(inputs.matched_value).split("|")[0]+'/'+str(inputs.matched_value).split("|")[1])
 
 

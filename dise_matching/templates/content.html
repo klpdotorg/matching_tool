@@ -22,11 +22,11 @@ Filter by School Name: <input type="text" onkeyup="filter(this.value);"> <input 
 <br>
 <table id="klp_table" name="kdata" align="left" width=100% style="font-size:12;" border="1" cellpadding="5" cellspacing="0">
 <thead>
-<tr><td>School_code</td><td>School_name</td></tr>
+<tr><td>School_code</td><td>School_name</td><td>Dise_code</td></tr>
 </thead>
 <tbody>
 $for cschool in klp_schools:
-	<tr onclick="clicks(this,2);"><td>$cschool[3]</td><td>$cschool[4]</td></tr>
+	<tr onclick="clicks(this,2);"><td>$cschool[3]</td><td>$cschool[4]</td><td>$cschool[5]</td></tr>
 </tbody>
 </table>
 </div>
