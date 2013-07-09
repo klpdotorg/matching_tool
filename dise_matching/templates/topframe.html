@@ -1,0 +1,74 @@
+$def with (dise_district,dise_block,dise_cluster,klp_district,klp_block,klp_cluster)
+
+<html>
+<head>
+<script type="text/javascript" src="/js/topframe.js"></script>
+<script>
+var dise_block=[
+$for row in dise_block:
+	['$row[0]','$row[1]'],
+['0','0']];
+
+var dise_clust=[
+$for row in dise_cluster:
+	['$row[0]','$row[1]'],
+['0','0']];
+
+
+var klp_block=[
+$for row in klp_block:
+	['$row[0]','$row[1]'],
+['0','0']];
+
+
+var klp_clust=[
+$for row in klp_cluster:
+	['$row[0]','$row[1]'],
+['0','0']];
+
+</script>
+</head>
+<body>
+<form id="form1" name="form1" method="post" action="match">
+
+
+<div align="left" style="height :70%; width :50%; float:left;">
+District : <select id="klp_dist" name="dist" onchange="change_focus(this.value,'klp_blk',2);">
+                <option value="0">Select</option>
+$for dist in klp_district:
+                <option value='$dist'>$dist.title()</option>
+</select>
+
+
+Block : <select id="klp_blk" name="blk" onchange="change_focus(this.value,'klp_clust',2);">
+                <option value="0">Select</option>
+</select>
+
+
+Cluster : <select id="klp_clust" name="clust" onchange="callpage(this.value);">
+                <option value="0">Select</option>
+</select>
+
+
+</div><div align="center" style="height :70%; width :50%; float:right;">
+
+District : <select id="dise_dist" name="dist" onchange="change_focus(this.value,'dise_blk',2);">
+		<option value="0">Select</option>
+$for dist in dise_district:
+                <option value='$dist'>$dist.title()</option>
+</select>
+
+Block : <select id="dise_blk" name="blk" onchange="change_focus(this.value,'dise_clust',2);">
+		<option value="0">Select</option>
+</select>
+
+Cluster : <select id="dise_clust" name="clust" onchange="callpage(this.value);">
+		<option value="0">Select</option>
+
+</select>
+</div>
+
+
+</form>
+</body>
+</html>
