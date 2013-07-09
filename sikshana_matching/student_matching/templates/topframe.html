@@ -1,0 +1,71 @@
+$def with (district_query,block_query,cluster_query,school_query,ac_year,cls)
+
+<html>
+<head>
+<script type="text/javascript" src="/js/topframe.js"></script>
+<script>
+var block=[
+$for row in block_query:
+	['$row.parent_id','$row.id','$row.name'],
+];
+
+var cluster=[
+$for row in cluster_query:
+	['$row.parent_id','$row.id','$row.name'],	
+];
+
+
+var school=[
+$for row in school_query:
+	['$row.clust_id','$row.id','$row.name'],
+];
+
+
+var cls=[
+$for row in cls:
+	['$row.klp_id','$row.cls','$row.cls'],
+];
+
+var ac_year=[
+$for row in ac_year:
+	['$row.klp_id','$row.ayid','$row.name'],
+];
+
+ 
+</script>
+</head>
+<body>
+<form id="form1" name="form1" method="post" action="/match">
+
+
+<div align="left" style="height :70%; width :100%; float:right;">
+Select District  <select id="dist" name="dist" onchange="change_focus(this.value,'blk',1);">
+		<option value="0">Select</option>
+$for dist in district_query:
+                <option value='$dist.id'>$dist.name.title()</option>
+</select>
+
+&nbsp;Block  <select id="blk" name="blk" onchange="change_focus(this.value,'clust',1);">
+		<option value="0">Select</option>
+</select>
+
+&nbsp;Cluster  <select id="clust" name="clust" onchange="change_focus(this.value,'school',1);">
+		<option value="0">Select</option>
+
+</select>
+
+&nbsp;School  <select id="school" name="school" onchange="change_focus(this.value,'cls',2);">
+                <option value="0">Select</option>
+</select>
+
+&nbsp;Class  <select id="cls" name="class" onchange="change_focus(document.getElementById('school').value,'ac_year',2);">
+                <option value="0">Select</option>
+</select>
+
+&nbsp;Year  <select id="ac_year" name="ac_year" onchange="callpage(this.value);">
+                <option value="0">Select</option>
+</select>
+</div>
+</form>
+</body>
+</html>

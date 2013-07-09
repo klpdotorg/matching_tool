@@ -1,0 +1,71 @@
+$def with (district_query,block_query,cluster_query,sikshana_district,sikshana_block,sikshana_cluster)
+
+<html>
+<head>
+<script type="text/javascript" src="/js/topframe.js"></script>
+<script>
+var klp_blk=[
+$for row in block_query:
+	['$row.parent_id','$row.id','$row.name'],
+];
+
+var klp_clst=[
+$for row in cluster_query:
+	['$row.parent_id','$row.id','$row.name'],
+];
+
+
+var sikshana_blk=[
+$for row in sikshana_block:
+	['$row.district','$row.block'],
+];
+
+var sikshana_clst=[
+$for row in sikshana_cluster:
+	['$row.block','$row.cluster'],
+];
+
+</script>
+</head>
+<body>
+<form id="form1" name="form1" method="post" action="match">
+
+
+<div align="left" style="height :70%; width :50%; float:left;">
+District : <select id="klp_dist" name="klp_dist" onchange="change_focus(this.value,'klp_blk',1);">
+		<option value="0">Select</option>
+$for dist in district_query:
+                <option value='$dist.id'>$dist.name.title()</option>
+</select>
+
+Block : <select id="klp_blk" name="klp_blk" onchange="change_focus(this.value,'klp_clst',1);">
+		<option value="0">Select</option>
+</select>
+
+Cluster : <select id="klp_clst" name="klp_clst" onchange="callpage(this.value);">
+		<option value="0">Select</option>
+
+</select>
+
+
+</div><div align="center" style="height :70%; width :50%; float:right;">
+District : <select id="sikshana_dist" name="sikshana_dist" onchange="change_focus(this.value,'sikshana_blk',2);">
+                <option value="0">Select</option>
+$for dist in sikshana_district:
+                <option value='$dist.district'>$dist.district.title()</option>
+</select>
+
+Block : <select id="sikshana_blk" name="sikshana_blk" onchange="change_focus(this.value,'sikshana_clst',2);">
+                <option value="0">Select</option>
+</select>
+
+
+Cluster : <select id="sikshana_clst" name="sikshana_clst" onchange="callpage(this.value);">
+                <option value="0">Select</option>
+</select>
+</div>
+
+
+</form>
+</body>
+</html>
