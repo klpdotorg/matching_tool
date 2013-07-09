@@ -1,0 +1,399 @@
+    
+ Dharwad         | Kalghatgi     | T-Honnalli       |166| G.H.P.S. G-Hulikatti
+ Ramnagara      | Kanakapura    | Sathanuru        |106| G.H.P.S. Sathanuru
+ Ramnagara      | Kanakapura    | Shivanahalli     |74| G.H.P.S. Horalagallu
+ Bangalore Rural | Hoskote       | Devanagundi      |188| G.H.P.S.Devangundi
+ Bangalore Rural | Hoskote       | Jadigenahalli    |209| G.H.P.S.Orohalli
+ Bangalore Rural | Hoskote       | Bendiganahalli   |247| G.H.P.S.Bendiganahalli
+ Bangalore Rural | Hoskote       | Shivanapura      |439| G.H.P.S.Gottipura
+ Ramnagara      | Kanakapura    | Thungani         |103| G.H.P.S. P.Rampura
+ Bangalore Rural | Hoskote       | Shivanapura      |441| G.H.P.S.Karappanahalli
+ Bangalore Rural | Hoskote       | Kalkunte         |198| G.H.P.S.Narayanakere
+ Chikballapur    | Chikballapur  | Agalagurki       |263| G.H.P.S.Agalagurki
+ Chikballapur    | Chikballapur  | Poshettihalli    |281| G.H.P.S.Gungerlahalli
+ Davanagere      | Harapanahalli | Telagi           |551| G.H.P.S.Yarbabalu
+ Ramnagara      | Kanakapura    | Erandyapanahalli |18| G.H.P.S. Arekere
+ Ramnagara      | Kanakapura    | Maralavadi       |98| G.H.P.S. Maralavadi
+ Bangalore       | Anekal        | Haragadde        |314| Nosenoor
+ Ramnagara      | Kanakapura    | Chikkamuduvadi   |94| G.H.P.S. Koothaganahalli
+ Dharwad         | Kalghatgi     | Muthagi          |481| G.H.P.S.B-Shigigatti
+ Bangalore       | Anekal        | Hennagara        |324| Hennagara
+ Chikballapur    | Chikballapur  | SreeRampura      |266| G.H.P.S.Bidaganahalli
+ Ramnagara      | Kanakapura    | Sathanuru        |119| G.H.P.S. Yadamaranahalli
+ Ramnagara      | Kanakapura    | Maralebekuppe    |32| G.H.P.S. Nallahalli
+ Dharwad         | Kalghatgi     | Mukkal           |136| G.H.P.S. Yalavadala
+ Bangalore Rural | Hoskote       | Vagata           |224| G.H.P.S.Vagata
+ Bangalore Rural | Hoskote       | Vagata           |226| G.H.P.S.Khjihosahalli
+ Dharwad         | Kalghatgi     | Kudalagi         |495| G.H.P.S.Sangameshwar
+ Bangalore Rural | Hoskote       | Samethanahalli   |203| G.H.P.S.Muttasandra
+ Bangalore Rural | Hoskote       | Devanagundi      |190| G.H.P.S.D Dunnasandra
+ Bangalore Rural | Hoskote       | Samethanahalli   |205| G.H.P.S.Nadavatthi
+ Bangalore Rural | Hoskote       | Sulibele         |255| G.H.P.S.Giddappanahalli
+ Ramnagara      | Kanakapura    | Banavasi         |93| G.H.P.S. Konasandra
+ Ramnagara      | Kanakapura    | Athihalli        |82| G.H.P.S. Kamsagara
+ Ramnagara      | Kanakapura    | Erandyapanahalli |63| G.H.P.S. Gattigunda
+ Davanagere      | Harapanahalli | Madihalli        |565| G.H.P.S.Hosakote
+ Bangalore Rural | Hoskote       | Vagata           |227| G.H.P.S.Tarabahalli
+ Ramnagara      | Kanakapura    | Narayanapura     |88| G.H.P.S. Keralalusandra
+ Ramnagara      | Kanakapura    | Hegganuru        |102| G.H.P.S. Nayakanahalli
+ Ramnagara      | Kanakapura    | Maralebekuppe    |90| G.H.P.S. Kokkarehosahalli
+ Chikballapur    | Gauribidnur   | Thondebhavi      |289| G.H.P.S.Thondebhavi
+ Dharwad         | Kalghatgi     | Dastikoppa       |134| G.H.P.S. Ramanala
+ Dharwad         | Kalghatgi     | Mukkal           |145| G.H.P.S. Mukkal
+ Davanagere      | Harapanahalli | Chirstahalli     |542| G.H.P.S.Machihalli Tanda
+ Bangalore Rural | Hoskote       | Jadigenahalli    |212| G.H.P.S.Attivatta
+ Ramnagara      | Kanakapura    | Anedoddi         |78| G.H.P.S. Kadasikoppa
+ Bangalore       | Anekal        | Hennagara        |316| Koppagete
+ Ramnagara      | Kanakapura    | Shivanahalli     |107| G.H.P.S. Seegekote
+ Ramnagara      | Kanakapura    | Athihalli        |26| G.H.P.S. Kachuvanahalli
+ Chikballapur    | Gauribidnur   | Halehalli        |284| G.H.P.S.varavani
+ Ramnagara      | Kanakapura    | Hegganuru        |23| G.H.P.S. Heggnuru
+ Davanagere      | Harapanahalli | Madlageri        |553| G.H.P.S.Madlageri
+ Dharwad         | Kalghatgi     | Kudalagi         |497| G.H.P.S.Dimbuvalli
+ Bangalore       | Anekal        | Bannerghatta     |307| G.H.P.S.Bannerugatta
+ Davanagere      | Harapanahalli | Chirstahalli     |541| G.H.P.S.Machihalli
+ Bangalore Rural | Hoskote       | Bendiganahalli   |250| G.H.P.S.T Agrahara
+ Ramnagara      | Kanakapura    | Anedoddi         |75| G.H.P.S. Hulugondanahalli
+ Ramnagara      | Kanakapura    | Narayanapura     |9| G.H.P.S. Hulibele
+ Bangalore Rural | Hoskote       | Alappanahalli    |244| G.H.P.S.Kurubarahalli
+ Dharwad         | Kalghatgi     | Kalghatgi        |153| G.H.P.S. KGS Kalghatgi
+ Bangalore Rural | Hoskote       | Shivanapura      |443| G.H.P.S.Muttakadahalli
+ Bangalore Rural | Hoskote       | Kalkunte         |196| G.H.P.S.Bhgur
+ Ramnagara      | Kanakapura    | Athihalli        |64| G.H.P.S. Gerahalli
+ Dharwad         | Kalghatgi     | Hulkoppa         |185| G.H.P.S. J-Basavanakoppa
+ Dharwad         | Kalghatgi     | Kalghatgi        |148| G.H.P.S. Gandhinagar
+ Ramnagara      | Kanakapura    | Erandyapanahalli |47| G.H.P.S. Bilidale
+ Ramnagara      | Kanakapura    | Erandyapanahalli |125| G.H.P.S. Hanchguli
+ Bangalore Rural | Hoskote       | Vagata           |229| G.H.P.S.Kattigenahalli
+ Ramnagara      | Kanakapura    | Maralavadi       |120| G.H.P.S. Yalachavadi
+ Chikballapur    | Gauribidnur   | Alakapura        |286| G.H.P.S.Pura
+ Ramnagara      | Kanakapura    | Thungani         |97| G.H.P.S. Malligemettilu
+ Bangalore Rural | Hoskote       | Begur            |216| G.H.P.S.Dasarahalli
+ Bangalore Rural | Hoskote       | Nandagudi        |463| G.H.P.S.Anuppalli
+ Ramnagara      | Kanakapura    | Halasuru         |73| G.H.P.S. Honniganahalli
+ Ramnagara      | Kanakapura    | Banavasi         |122| G.H.P.S.Algadakalu
+ Davanagere      | Harapanahalli | Kanchikare       |557| G.H.P.S.Kyarkatti
+ Davanagere      | Harapanahalli | Goverhalli       |544| G.H.P.S.Hulikatti
+ Bangalore Rural | Hoskote       | Shivanapura      |260| G.H.P.S.Chikkanahalli
+ Bangalore Rural | Hoskote       | Begur            |215| G.H.P.S.Doddahullur
+ Bangalore Rural | Hoskote       | Kalkunte         |197| G.H.P.S.Turuvaranga
+ Bangalore       | Anekal        | Bannerghatta     |302| G.H.P.S.Bilwardanahalli
+ Davanagere      | Harapanahalli | Chirstahalli     |550| G.H.P.S.Alagilwad
+ Bangalore       | Anekal        | Bannerghatta     |306| G.H.P.S.Malenallasandra
+ Dharwad         | Kalghatgi     | Mukkal           |138| G.H.P.S. Bammigatti (KBS) 
+ Bangalore Rural | Hoskote       | Sulibele         |252| G.H.P.S.Sulibele
+ Ramnagara      | Kanakapura    | Hukunda          |24| G.H.P.S. Hukunda
+ Bangalore       | Anekal        | Haragadde        |312| Madapattana
+ Ramnagara      | Kanakapura    | Narayanapura     |127| G.H.P.S. Bettegowdanadoddi
+ Ramnagara      | Kanakapura    | Maralebekuppe    |29| G.H.P.S. Krishnayyanadoddi
+ Bangalore Rural | Hoskote       | Nelavagilu       |452| G.H.P.S.Nelavagilu
+ Dharwad         | Kalghatgi     | Mukkal           |471| G.H.P.S.Bammigatti (KGS) 
+ Ramnagara      | Kanakapura    | Kanakapura Town  |85| G.H.P.S. Kanakapura - G.K.B.M.S
+ Ramnagara      | Kanakapura    | Athihalli        |118| G.H.P.S. Venkatarayanadoddi
+ Dharwad         | Kalghatgi     | Dhummavada       |522| G.H.P.S.Kalasanakoppa
+ Bangalore Rural | Hoskote       | Begur            |221| G.H.P.S.Mallimakanapura
+ Ramnagara      | Kanakapura    | Banavasi         |43| G.H.P.S. Banavasi
+ Bangalore Rural | Hoskote       | Tavarekere       |449| G.H.P.S.Doddadenahalli
+ Chikballapur    | Gauribidnur   | Thondebhavi      |300| G.H.P.S.Dandiganahalli
+ Ramnagara      | Kanakapura    | Cheeluru         |3| G.H.P.S. Cheeluru
+ Davanagere      | Harapanahalli | Goverhalli       |563| G.H.P.S.Haraknalu
+ Bangalore Rural | Hoskote       | Devanagundi      |192| G.H.P.S.Muthkur
+ Ramnagara      | Kanakapura    | Harohalli        |5| G.H.P.S. Harohalli
+ Bangalore Rural | Hoskote       | Alappanahalli    |243| G.H.P.S.Kamsandra
+ Chikballapur    | Chikballapur  | Muddenahalli     |270| G.H.P.S.Kanganahalli
+ Chikballapur    | Chikballapur  | SreeRampura      |280| G.H.P.S.Yaluvahalli
+ Bangalore       | Anekal        | Harapanahalli    |327| Kalbalu
+ Dharwad         | Kalghatgi     | Mishrikoti       |465| G.H.P.S.Mishrikoti   
+ Bangalore Rural | Hoskote       | Alappanahalli    |242| G.H.P.S.Kumblahalli
+ Dharwad         | Kalghatgi     | Dastikoppa       |163| G.H.P.S. Madakihonnalli
+ Bangalore Rural | Hoskote       | Vagata           |225| G.H.P.S.Kodihalli
+ Ramnagara      | Kanakapura    | Kaggalahalli     |62| G.H.P.S. Gabbadi
+ Ramnagara      | Kanakapura    | Kanakapura Town  |124| G.H.P.S. Melekote
+ Davanagere      | Harapanahalli | Nilgunda         |552| G.H.P.S.Ittigudi
+ Ramnagara      | Kanakapura    | Chikkamuduvadi   |109| G.H.P.S. Somedyapanahalli
+ Dharwad         | Kalghatgi     | Muthagi          |144| G.H.P.S. Hasarambi
+ Davanagere      | Harapanahalli | Arasikare        |547| G.H.P.S.Hikkimgeri
+ Bangalore Rural | Hoskote       | Sulibele         |253| G.H.P.S.Kurubarahatte
+ Chikballapur    | Chikballapur  | Peresandra       |1054| G.H.P.S.Peresandra
+ Ramnagara      | Kanakapura    | Hegganuru        |56| G.H.P.S. Doddalahalli
+ Chikballapur    | Chikballapur  | Nayanahalli      |265| G.H.P.S.Andarlahalli
+ Ramnagara      | Kanakapura    | Athihalli        |42| G.H.P.S. Arekattedoddi
+ Ramnagara      | Kanakapura    | Banavasi         |111| G.H.P.S. Thattekere
+ Bangalore       | Anekal        | Hennagara        |323| Rajapura
+ Chikballapur    | Gauribidnur   | Manchenahalli    |298| G.H.P.S.Minakanagurki
+ Ramnagara      | Kanakapura    | Erandyapanahalli |38| G.H.P.S. Aregadakalu
+ Ramnagara      | Kanakapura    | Kaggalahalli     |80| G.H.P.S. Kaggalahalli
+ Ramnagara      | Kanakapura    | Shivanahalli     |22| G.H.P.S. Halugondanahalli
+ Dharwad         | Kalghatgi     | Hulkoppa         |483| G.H.P.S.G-Hulakappa
+ Dharwad         | Kalghatgi     | Kalghatgi        |494| G.H.P.S.Kalghatgi(KBS)
+ Davanagere      | Harapanahalli | Arasikare        |558| G.H.P.S.Toudur Tanda
+ Dharwad         | Kalghatgi     | Devikoppa        |178| G.H.P.S. Shinganalli
+ Dharwad         | Kalghatgi     | T-Honnalli       |169| G.H.P.S. Solaragoppa
+ Ramnagara      | Kanakapura    | Chikkamuduvadi   |53| G.H.P.S. Chikkenahalli
+ Bangalore Rural | Hoskote       | Hosakote         |235| G.H.P.S.Doddagattiganabbe
+ Dharwad         | Kalghatgi     | Mukkal           |139| G.H.P.S. Nelliharavi
+ Bangalore Rural | Hoskote       | Sulibele         |262| G.H.P.S.Janata Colony Sulibele
+ Bangalore       | Anekal        | Bannerghatta     |308| G.H.P.S.Saklwara
+ Bangalore Rural | Hoskote       | Hosakote         |234| G.H.P.S.V V Extenion 
+ Ramnagara      | Kanakapura    | Kodihalli        |21| G.H.P.S. Doddakabbahalli
+ Dharwad         | Kalghatgi     | Mukkal           |474| G.H.P.S.Thavarageri
+ Ramnagara      | Kanakapura    | Banavasi         |86| G.H.P.S. Karikaldoddi Gate
+ Bangalore Rural | Hoskote       | Jadigenahalli    |213| G.H.P.S.Soluru
+ Dharwad         | Kalghatgi     | Kudalagi         |154| G.H.P.S. Kudalagi
+ Ramnagara      | Kanakapura    | Kanakapura Town  |83| G.H.P.S. Kanakapura - 02
+ Bangalore Rural | Hoskote       | Tavarekere       |444| G.H.P.S.Tavarekere
+ Dharwad         | Kalghatgi     | T-Honnalli       |167| G.H.P.S. B-Hulikatti
+ Davanagere      | Harapanahalli | Arasikare        |570| G.H.P.S.Nichavvanahalli
+ Ramnagara      | Kanakapura    | Kanakapura Town  |11| G.H.P.S. K.P.L. Colony
+ Chikballapur    | Gauribidnur   | Thondebhavi      |290| G.H.P.S.Belchukkanahalli
+ Dharwad         | Kalghatgi     | Dhummavada       |540| G.H.S.Hirehonnalli
+ Bangalore Rural | Hoskote       | Sulibele         |258| G.H.P.S.Bettahalli
+ Ramnagara      | Kanakapura    | Chikkamuduvadi   |52| G.H.P.S. Chikkamuduvadi
+ Bangalore       | Anekal        | Harapanahalli    |328| Konasandra
+ Chikballapur    | Chikballapur  | Chikballapur     |1055| Old Middle School
+ Ramnagara      | Kanakapura    | Kodihalli        |105| G.H.P.S. Salabanni
+ Bangalore Rural | Hoskote       | Sulibele         |254| G.H.P.S.Arasanahalli
+ Chikballapur    | Gauribidnur   | Halehalli        |283| G.H.P.S.Honnapanahalli
+ Chikballapur    | Chikballapur  | Nandi            |276| G.H.P.S.Nandi
+ Ramnagara      | Kanakapura    | Athihalli        |54| G.H.P.S. Dhalimba
+ Ramnagara      | Kanakapura    | Maralavadi       |112| G.H.P.S. Therubeedi
+ Bangalore Rural | Hoskote       | Nelavagilu       |458| G.H.P.S.Karahalli
+ Bangalore South | Domlur        | Domluru          |579| G.H.P.S.Jogu Palya(Urdu)
+ Davanagere      | Harapanahalli | Harapanahalli    |569| G.H.P.S.9th Vard Hphalli
+ Davanagere      | Harapanahalli | Matthihalli      |561| G.H.P.S.Sasvihalli
+ Ramnagara      | Kanakapura    | Banavasi         |65| G.H.P.S. Goduru
+ Ramnagara      | Kanakapura    | Hegganuru        |8| G.H.P.S. Haroshivanahalli
+ Dharwad         | Kalghatgi     | Dhummavada       |182| G.H.P.S. Dhummavada (KGS)  
+ Ramnagara      | Kanakapura    | Hukunda          |28| G.H.P.S. Kotekoppa
+ Ramnagara      | Kanakapura    | Kanakapura Town  |39| G.H.P.S. Ambedkar Nagara
+ Ramnagara      | Kanakapura    | Thungani         |36| G.H.P.S. Thungani
+ Bangalore Rural | Hoskote       | Hosakote         |236| G.H.P.S.Chikkagattiganabbe
+ Chikballapur    | Chikballapur  | Thippenahalli    |297| G.H.P.S.Tippenahalli
+ Bangalore Rural | Hoskote       | Begur            |217| G.H.P.S.Sompura
+ Bangalore       | Anekal        | Haragadde        |310| Harugadde
+ Dharwad         | Kalghatgi     | Muthagi          |489| G.H.P.S.Bisaralli
+ Bangalore       | Anekal        | Haragadde        |313| Lingapura
+ Ramnagara      | Kanakapura    | Doddamuduvadi    |55| G.H.P.S. Doddakalbalu
+ Ramnagara      | Kanakapura    | Hegganuru        |15| G.H.P.S. Uyyambahalli
+ Bangalore Rural | Hoskote       | Shivanapura      |259| G.H.P.S.Shivanapura
+ Ramnagara      | Kanakapura    | Maralebekuppe    |31| G.H.P.S. Mullahalli
+ Dharwad         | Kalghatgi     | T-Honnalli       |168| G.H.P.S. Parasapur
+ Ramnagara      | Kanakapura    | Erandyapanahalli |70| G.H.P.S. Halasuru
+ Bangalore Rural | Hoskote       | Tavarekere       |451| G.H.P.S.Valagerepura
+ Chikballapur    | Gauribidnur   | Thondebhavi      |288| G.H.P.S.Thippaganahalli
+ Davanagere      | Harapanahalli | Ucchangidurga    |556| G.H.P.S.Bevinahalli D Tanda
+ Dharwad         | Kalghatgi     | Dhummavada       |183| G.H.P.S. Jodihalli
+ Bangalore Rural | Hoskote       | Hosakote         |233| G.H.P.S.Kurubarapete
+ Chikballapur    | Chikballapur  | Poshettihalli    |295| G.H.P.S.Poshettihalli
+ Dharwad         | Kalghatgi     | Ganjigatti       |162| G.H.P.S. Suthagatti
+ Dharwad         | Kalghatgi     | Devikoppa        |177| G.H.P.S. Thambur
+ Bangalore Rural | Hoskote       | Devanagundi      |191| G.H.P.S.Anugondanahalli
+ Dharwad         | Kalghatgi     | Muthagi          |147| G.H.P.S. Hullambi
+ Ramnagara      | Kanakapura    | Sathanuru        |16| G.H.P.S. Acchalu
+ Bangalore Rural | Hoskote       | Samethanahalli   |204| G.H.P.S.K Mallsandra
+ Ramnagara      | Kanakapura    | Kanakapura Town  |45| G.H.P.S. Baradanahalli
+ Dharwad         | Kalghatgi     | Dhummavada       |524| G.H.P.S.Kuruvinakoppa
+ Ramnagara      | Kanakapura    | Kodihalli        |89| G.H.P.S. Kodihalli
+ Ramnagara      | Kanakapura    | Chikkamuduvadi   |95| G.H.P.S. Kothunuru
+ Ramnagara      | Kanakapura    | Halasuru         |49| G.H.P.S. Boohalli
+ Dharwad         | Kalghatgi     | Mishrikoti       |132| G.H.P.S. Harogeri
+ Ramnagara      | Kanakapura    | Erandyapanahalli |114| G.H.P.S. Thippuru
+ Dharwad         | Kalghatgi     | Mishrikoti       |133| G.H.P.S. Kamadhenu
+ Bangalore       | Anekal        | Bannerghatta     |305| G.H.P.S.Begihalli
+ Ramnagara      | Kanakapura    | Doddamuduvadi    |51| G.H.P.S. Chikkalbalu
+ Chikballapur    | Gauribidnur   | Thondebhavi      |291| G.H.P.S.Indiranagara
+ Bangalore Rural | Hoskote       | Devanagundi      |189| G.H.P.S.D Hosahalli
+ Chikballapur    | Gauribidnur   | Alakapura        |287| G.H.P.S.Bisalahalli
+ Dharwad         | Kalghatgi     | Dhummavada       |517| G.H.P.S.Hirehonnalli(KGS)
+ Dharwad         | Kalghatgi     | Mishrikoti       |467| G.H.P.S.MishrikotiJP
+ Bangalore Rural | Hoskote       | Bendiganahalli   |249| G.H.P.S.Doddaralagere
+ Chikballapur    | Chikballapur  | Nayanahalli      |278| G.H.P.S.Patrenahalli
+ Ramnagara      | Kanakapura    | Kanakapura Town  |84| G.H.P.S. Kanakapura - G.G.M.S
+ Dharwad         | Kalghatgi     | Dhummavada       |184| G.H.P.S. Jammihala
+ Dharwad         | Kalghatgi     | Mukkal           |140| G.H.P.S. Aladakatti
+ Bangalore Rural | Hoskote       | Shivanapura      |442| G.H.P.S.K Satyavara
+ Ramnagara      | Kanakapura    | Athihalli        |77| G.H.P.S. Kabbalu
+ Bangalore       | Anekal        | Hennagara        |321| Koppa 
+ Davanagere      | Harapanahalli | Kanchikare       |546| G.H.P.S.Hallikere
+ Dharwad         | Kalghatgi     | Devikoppa        |180| G.H.P.S. Junjunbail 
+ Bangalore Rural | Hoskote       | Sulibele         |257| G.H.P.S.Yenagunte
+ Bangalore Rural | Hoskote       | Tavarekere       |448| G.H.P.S.Chikkanallala
+ Bangalore Rural | Hoskote       | Begur            |219| G.H.P.S.E Muttasandra
+ Bangalore Rural | Hoskote       | Nelavagilu       |453| G.H.P.S.Dalasagere
+ Bangalore       | Anekal        | Hennagara        |322| Bingipura
+ Bangalore Rural | Hoskote       | Nelavagilu       |456| G.H.P.S.Korate
+ Dharwad         | Kalghatgi     | T-Honnalli       |171| G.H.P.S. Malakanakoppa
+ Bangalore South | Domlur        | Domluru          |577| G.H.P.S.Appareddypalya
+ Dharwad         | Kalghatgi     | Dhummavada       |187| G.H.P.S. B-Gudihal
+ Davanagere      | Harapanahalli | Gundagatti       |555| G.H.P.S.Sevanagar
+ Ramnagara      | Kanakapura    | Hegganuru        |60| G.H.P.S. Elagahalli
+ Dharwad         | Kalghatgi     | T-Honnalli       |506| G.H.P.S.Birvalli
+ Ramnagara      | Kanakapura    | Hunasanahalli    |17| G.H.P.S. Alanatha
+ Dharwad         | Kalghatgi     | T-Honnalli       |170| G.H.P.S. Jinnur
+ Chikballapur    | Chikballapur  | Nandi            |272| G.H.P.S.Kuduvathi
+ Dharwad         | Kalghatgi     | Dastikoppa       |469| G.H.P.S.Dastikoppa
+ Dharwad         | Kalghatgi     | T-Honnalli       |173| G.H.P.S. Asthakatti
+ Ramnagara      | Kanakapura    | Anedoddi         |100| G.H.P.S. Medamaranahalli
+ Ramnagara      | Kanakapura    | Kanakapura Town  |40| G.H.P.S. Anamanahalli
+ Bangalore Rural | Hoskote       | Hosakote         |237| G.H.P.S.Kannurahalli
+ Chikballapur    | Chikballapur  | Chikballapur     |269| G.H.P.S.Kandhawara
+ Ramnagara      | Kanakapura    | Anedoddi         |92| G.H.P.S. Kolliganahalli
+ Ramnagara      | Kanakapura    | Narayanapura     |67| G.H.P.S. Gowdahalli
+ Ramnagara      | Kanakapura    | Erandyapanahalli |91| G.H.P.S. Kolagondanahalli
+ Bangalore Rural | Hoskote       | Sulibele         |256| G.H.P.S.Attubele
+ Davanagere      | Harapanahalli | Goverhalli       |545| G.H.P.S.Uddatti Tanda
+ Davanagere      | Harapanahalli | Haluvagalu       |549| G.H.P.S.Garbhagudi
+ Bangalore Rural | Hoskote       | Nelavagilu       |457| G.H.P.S.Hedakanahalli
+ Bangalore Rural | Hoskote       | Hosakote         |238| G.H.P.S.Dandipalya
+ Bangalore Rural | Hoskote       | Jadigenahalli    |210| G.H.P.S.Chikkataggi
+ Bangalore Rural | Hoskote       | Vagata           |230| G.H.P.S.Makanahalli
+ Ramnagara      | Kanakapura    | Banavasi         |123| G.H.P.S. Atthikuppe
+ Chikballapur    | Gauribidnur   | Thondebhavi      |299| G.H.P.S.Kalnayakanahalli
+ Dharwad         | Kalghatgi     | Mishrikoti       |130| G.H.P.S. Chalamatti
+ Dharwad         | Kalghatgi     | T-Honnalli       |505| G.H.P.S.T-Honnalli
+ Bangalore Rural | Hoskote       | Shivanapura      |438| G.H.P.S.Needagatta
+ Ramnagara      | Kanakapura    | Doddamuduvadi    |57| G.H.P.S. Doddamuduvadi
+ Ramnagara      | Kanakapura    | Kaggalahalli     |117| G.H.P.S. Vaderahalli
+ Bangalore Rural | Hoskote       | Shivanapura      |440| G.H.P.S.Maliyappanahalli
+ Dharwad         | Kalghatgi     | Ganjigatti       |503| G.H.P.S.Ganjjigatti
+ Ramnagara      | Kanakapura    | Shivanahalli     |1| G.H.P.S. Aralalu
+ Davanagere      | Harapanahalli | Arasikare        |559| G.H.P.S.Komaranahalli
+ Bangalore Rural | Hoskote       | Alappanahalli    |241| G.H.P.S.Hasigala
+ Ramnagara      | Kanakapura    | Cheeluru         |110| G.H.P.S. T. Bannikuppe
+ Bangalore Rural | Hoskote       | Nelavagilu       |454| G.H.P.S.Chikkondahalli
+ Dharwad         | Kalghatgi     | Kalghatgi        |150| G.H.P.S. Hulaginakatti
+ Dharwad         | Kalghatgi     | T-Honnalli       |174| G.H.P.S. Bendalagtti
+ Ramnagara      | Kanakapura    | Hukunda          |108| G.H.P.S. Shivanegowdanadoddi
+ Dharwad         | Kalghatgi     | Ganjigatti       |161| G.H.P.S. Bagadageri
+ Bangalore Rural | Hoskote       | Vagata           |231| G.H.P.S.Kanekallu
+ Bangalore Rural | Hoskote       | Tavarekere       |446| G.H.P.S.Gangapura
+ Davanagere      | Harapanahalli | Kunchur          |562| G.H.P.S.Kunchur 
+ Dharwad         | Kalghatgi     | Dastikoppa       |164| G.H.P.S. Sangadevarakoppa
+ Bangalore       | Anekal        | Harapanahalli    |325| Harapanahalli
+ Chikballapur    | Gauribidnur   | Thondebhavi      |293| G.H.P.S.Bevenahalli
+ Davanagere      | Harapanahalli | Chigatgeri       |554| G.H.P.S.Konganhosooru
+ Dharwad         | Kalghatgi     | Hulkoppa         |484| G.H.P.S.HulakoppaJP
+ Bangalore Rural | Hoskote       | Jadigenahalli    |208| G.H.P.S.Jadigenahlli
+ Bangalore Rural | Hoskote       | Begur            |220| G.H.P.S.Kamblipura
+ Bangalore Rural | Hoskote       | Tavarekere       |450| G.H.P.S.Ummalu
+ Ramnagara      | Kanakapura    | Maralebekuppe    |27| G.H.P.S. Maralebekuppe
+ Bangalore Rural | Hoskote       | Hosakote         |232| G.H.P.S.G G M S 
+ Ramnagara      | Kanakapura    | Hunasanahalli    |126| G.H.P.S. Sarahaddinadoddi
+ Ramnagara      | Kanakapura    | Sathanuru        |101| G.H.P.S. Nagarasanakote
+ Bangalore Rural | Hoskote       | Devanagundi      |193| G.H.P.S.Medimallasandra
+ Ramnagara      | Kanakapura    | Kanakapura Town  |25| G.H.P.S. Kallahalli
+ Bangalore Rural | Hoskote       | Kalkunte         |201| G.H.P.S.Gangaluru
+ Dharwad         | Kalghatgi     | T-Honnalli       |172| G.H.P.S. Dyavanakonda
+ Ramnagara      | Kanakapura    | Halasuru         |72| G.H.P.S. Harihara
+ Dharwad         | Kalghatgi     | Dhummavada       |518| G.H.P.S.Dummavada
+ Bangalore       | Anekal        | Harapanahalli    |326| Krishanadoddi
+ Chikballapur    | Chikballapur  | Kondenahalli     |268| G.H.P.S.Giddanahalli
+ Dharwad         | Kalghatgi     | Ganjigatti       |159| G.H.P.S. Surasettikoppa
+ Ramnagara      | Kanakapura    | Erandyapanahalli |46| G.H.P.S. Bijjahalli
+ Bangalore       | Anekal        | Hennagara        |320| Hulimangala
+ Bangalore Rural | Hoskote       | Nandagudi        |461| G.H.P.S.Ettasandra
+ Ramnagara      | Kanakapura    | Cheeluru         |58| G.H.P.S. Doddasadenahalli
+ Dharwad         | Kalghatgi     | Muthagi          |146| G.H.P.S. Linganakoppa
+ Dharwad         | Kalghatgi     | Kudalagi         |156| G.H.P.S. Hatakinala
+ Bangalore Rural | Hoskote       | Kalkunte         |200| G.H.P.S.Maranagere
+ Bangalore Rural | Hoskote       | Vagata           |228| G.H.P.S.Honchanahalli
+ Bangalore Rural | Hoskote       | Nandagudi        |460| G.H.P.S.Dharmeshwara
+ Ramnagara      | Kanakapura    | Athihalli        |69| G.H.P.S. Guruvinapura
+ Ramnagara      | Kanakapura    | Cheeluru         |35| G.H.P.S. T.Hosahalli
+ Dharwad         | Kalghatgi     | Kalghatgi        |493| G.H.P.S.Kalghatgi  
+ Chikballapur    | Chikballapur  | Nayanahalli      |264| G.H.P.S.Ajjavara
+ Bangalore South | Hebbal        | Domluru          |576| G.H.P.S.Sahakaranagara
+ Bangalore Rural | Hoskote       | Bendiganahalli   |248| G.H.P.S.Gullahalli
+ Ramnagara      | Kanakapura    | Chikkamuduvadi   |113| G.H.P.S. Thimmegowdana Doddi
+ Ramnagara      | Kanakapura    | Erandyapanahalli |68| G.H.P.S. Gulaganahalli
+ Bangalore       | Anekal        | Harapanahalli    |330| Ragihalli
+ Davanagere      | Harapanahalli | Goverhalli       |543| G.H.P.S. Channahalli
+ Chikballapur    | Chikballapur  | Nayanahalli      |277| G.H.P.S.Nayanahalli
+ Bangalore Rural | Hoskote       | Shivanapura      |261| G.H.P.S.Mugabala
+ Ramnagara      | Kanakapura    | Sathanuru        |116| G.H.P.S. Thotahalli
+ Ramnagara      | Kanakapura    | Doddamuduvadi    |44| G.H.P.S. Bandiganahalli
+ Chikballapur    | Chikballapur  | Nandi            |273| G.H.P.S.Kuppahalli
+ Ramnagara      | Kanakapura    | Halasuru         |14| G.H.P.S. Sasalapura
+ Ramnagara      | Kanakapura    | Halasuru         |6| G.H.P.S. Halasuru
+ Dharwad         | Kalghatgi     | Kalghatgi        |151| G.H.P.S. Kalghatgi Thanda
+ Ramnagara      | Kanakapura    | Erandyapanahalli |61| G.H.P.S. Erandyapanahalli
+ Davanagere      | Harapanahalli | Haluvagalu       |568| G.H.P.S.Badavane halvagalu
+ Bangalore Rural | Hoskote       | Begur            |223| G.H.P.S.Doddahullurahalli
+ Dharwad         | Kalghatgi     | Mishrikoti       |468| G.H.P.S.Ugnikeri
+ Dharwad         | Kalghatgi     | Muthagi          |143| G.H.P.S. Mutthagi
+ Davanagere      | Harapanahalli | Singrihalli      |564| G.H.P.S.Keretanda
+ Bangalore Rural | Hoskote       | Kalkunte         |199| G.H.P.S.Gundur
+ Chikballapur    | Chikballapur  | Poshettihalli    |296| G.H.P.S.Bomenahalli
+ Bangalore Rural | Hoskote       | Alappanahalli    |240| G.H.P.S.Alappanahalli
+ Bangalore Rural | Hoskote       | Alappanahalli    |246| G.H.P.S.Lakkondahalli
+ Bangalore Rural | Hoskote       | Jadigenahalli    |211| G.H.P.S.Tavatahalli
+ Bangalore Rural | Hoskote       | Tavarekere       |447| G.H.P.S.Doddanallala
+ Dharwad         | Kalghatgi     | Devikoppa        |179| G.H.P.S. Sangatikoppa
+ Dharwad         | Kalghatgi     | Muthagi          |487| G.H.P.S.Begur  
+ Ramnagara      | Kanakapura    | Banavasi         |79| G.H.P.S. Kadujakkasandra
+ Ramnagara      | Kanakapura    | Erandyapanahalli |87| G.H.P.S. Kebbare
+ Bangalore Rural | Hoskote       | Tavarekere       |445| G.H.P.S.Hettakki
+ Dharwad         | Kalghatgi     | Muthagi          |482| G.H.P.S.Gambyapura
+ Ramnagara      | Kanakapura    | Kodihalli        |7| G.H.P.S. Hosadurga
+ Bangalore Rural | Hoskote       | Kalkunte         |195| G.H.P.S.Kalkunte
+ Bangalore Rural | Hoskote       | Nandagudi        |464| G.H.P.S.Hindiganahalli
+ Dharwad         | Kalghatgi     | Mishrikoti       |129| G.H.P.S. Mishrikoti (KGS)  
+ Bangalore Rural | Hoskote       | Nelavagilu       |455| G.H.P.S.Siddanahalli
+ Dharwad         | Kalghatgi     | Ganjigatti       |160| G.H.P.S. Naganur
+ Bangalore Rural | Hoskote       | Nandagudi        |459| G.H.P.S.Nandagudi
+ Bangalore       | Anekal        | Hennagara        |318| Yarandanahalli
+ Ramnagara      | Kanakapura    | Anedoddi         |41| G.H.P.S. Anedoddi
+ Ramnagara      | Kanakapura    | Cheeluru         |13| G.H.P.S. Paduvanagere
+ Chikballapur    | Gauribidnur   | Namagondlu       |285| G.H.P.S.Jarabandahalli
+ Ramnagara      | Kanakapura    | Banavasi         |48| G.H.P.S. Biliganakuppe
+ Ramnagara      | Kanakapura    | Erandyapanahalli |30| G.H.P.S. Kadushivanahalli
+ Dharwad         | Kalghatgi     | Mukkal           |137| G.H.P.S. Hunasikatti
+ Ramnagara      | Kanakapura    | Hunasanahalli    |19| G.H.P.S. Bannimukodulu
+ Bangalore Rural | Hoskote       | Shivanapura      |437| G.H.P.S.Kembaliganahalli
+ Bangalore       | Anekal        | Hennagara        |317| Margondanahalli
+ Ramnagara      | Kanakapura    | Narayanapura     |33| G.H.P.S. Narayanapura
+ Dharwad         | Kalghatgi     | Kudalagi         |155| G.H.P.S. Sulikatti
+ Ramnagara      | Kanakapura    | Thungani         |115| G.H.P.S. Thokasandra
+ Chikballapur    | Gauribidnur   | Thondebhavi      |292| G.H.P.S.Thondebhavi Railway Station
+ Bangalore Rural | Hoskote       | Bendiganahalli   |251| G.H.P.S.Bhavapura
+ Bangalore Rural | Hoskote       | Nandagudi        |462| G.H.P.S.E Hosahalli
+ Dharwad         | Kalghatgi     | Devikoppa        |508| G.H.P.S.Devikoppa  
+ Ramnagara      | Kanakapura    | Athihalli        |2| G.H.P.S. Atthihalli
+ Bangalore       | Anekal        | Hennagara        |319| Vabsandra
+ Bangalore Rural | Hoskote       | Alappanahalli    |245| G.H.P.S.Sonnahallipura
+ Dharwad         | Kalghatgi     | Dastikoppa       |477| G.H.P.S.H-Somanakoppa
+ Dharwad         | Kalghatgi     | Hulkoppa         |486| G.H.P.S.Hulakoppa-DPEP
+ Bangalore       | Anekal        | Bannerghatta     |303| G.H.P.S.Kanayakana agrahara
+ Bangalore Rural | Hoskote       | Samethanahalli   |202| G.H.P.S.Samethanahalli
+ Ramnagara      | Kanakapura    | Banavasi         |59| G.H.P.S. Dyavasandra
+ Dharwad         | Kalghatgi     | Devikoppa        |509| G.H.P.S.DevikoppaJP
+ Ramnagara      | Kanakapura    | Maralavadi       |81| G.H.P.S. Kallanakuppe
+ Chikballapur    | Gauribidnur   | Manchenahalli    |282| G.H.P.S.Rayanakallu
+ Bangalore Rural | Hoskote       | Begur            |214| G.H.P.S.Begur
+ Bangalore Rural | Hoskote       | Hosakote         |1056| KGKBMS Hoskote
+ Bangalore Rural | Hoskote       | Samethanahalli   |207| G.H.P.S.Bodhenahosahalli
+ Dharwad         | Kalghatgi     | Dhummavada       |525| G.H.P.S.B-Gudihal
+ Chikballapur    | Chikballapur  | SreeRampura      |279| G.H.P.S.Srirampura
+ Ramnagara      | Kanakapura    | Doddamuduvadi    |96| G.H.P.S. Kottagalu
+ Bangalore       | Anekal        | Bannerghatta     |301| G.H.P.S.Bayatarayanapura
+ Dharwad         | Kalghatgi     | Mishrikoti       |131| G.H.P.S. Kadanakoppa
+ Ramnagara      | Kanakapura    | Doddamuduvadi    |66| G.H.P.S. Gollahalli
+ Ramnagara      | Kanakapura    | Hunasanahalli    |10| G.H.P.S. Hunasanahalli
+ Dharwad         | Kalghatgi     | Hulkoppa         |186| G.H.P.S. Neerasagar
+ Ramnagara      | Kanakapura    | Halasuru         |12| G.H.P.S. Kadahalli
+ Bangalore       | Anekal        | Haragadde        |311| Jigani
+ Ramnagara      | Kanakapura    | Doddamuduvadi    |104| G.H.P.S. Picchanakere
+ Bangalore South | HAL           | HAL II Stage     |571| G.H.P.S Vimanapura
+ Bangalore       | Anekal        | Bannerghatta     |304| G.H.P.S.Mantapa
+ Dharwad         | Kalghatgi     | Ganjigatti       |504| G.H.P.S.Bogenagarakoppa
+ Bangalore Rural | Hoskote       | Begur            |218| G.H.P.S.M Satyavara
+ Dharwad         | Kalghatgi     | Dastikoppa       |476| G.H.P.S.Belavantara
+ Ramnagara      | Kanakapura    | Shivanahalli     |34| G.H.P.S. Shivanahalli
+ Chikballapur    | Chikballapur  | Muddenahalli     |275| G.H.P.S.Mylapanahalli
+ Dharwad         | Kalghatgi     | Mishrikoti       |466| G.U.P.S.Mishrikoti
+ Ramnagara      | Kanakapura    | Banavasi         |37| G.H.P.S. A.Rampura
+ Ramnagara      | Kanakapura    | Sathanuru        |50| G.H.P.S. Chikkahalli
+ Chikballapur    | Chikballapur  | Nandi            |274| G.H.P.S.Kolavanahalli
+ Ramnagara      | Kanakapura    | Narayanapura     |99| G.H.P.S. Mavathur
+ Chikballapur    | Chikballapur  | SreeRampura      |267| G.H.P.S.Doddamarale
+ Chikballapur    | Chikballapur  | Poshettihalli    |294| G.H.P.S.Balkuntahalli
