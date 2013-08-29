@@ -267,3 +267,67 @@
 [Tue Jul 09 16:26:29 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8028/content/badami/badami
 [Tue Jul 09 16:28:25 2013] [info] [client 127.0.0.1] mod_wsgi (pid=7725, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
 [Tue Jul 09 16:28:53 2013] [info] [client 127.0.0.1] mod_wsgi (pid=7724, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'., referer: http://0.0.0.0:8028/content/badami/badami
+[Wed Jul 10 12:20:39 2013] [info] [client 127.0.0.1] mod_wsgi (pid=1476, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
+[Wed Jul 10 12:20:56 2013] [info] [client 127.0.0.1] mod_wsgi (pid=1474, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
+[Wed Jul 10 20:30:04 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2307, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1] Traceback (most recent call last):, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 239, in process, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]     return self.handle(), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 230, in handle, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]     return self._delegate(fn, self.fvars, args), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 462, in _delegate, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]     return handle_class(cls), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 438, in handle_class, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]     return tocall(*args), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]   File "/home/brijesh/matching_tool/dise_matching/match.wsgi", line 43, in GET, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1]     fp1=csv.reader(open('/data/DISE.csv','r'),delimiter='|'), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1] IOError: [Errno 2] No such file or directory: '/data/DISE.csv', referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:05 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2306, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
+[Wed Jul 10 20:30:53 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2450, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1] Traceback (most recent call last):, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 239, in process, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]     return self.handle(), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 230, in handle, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]     return self._delegate(fn, self.fvars, args), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 462, in _delegate, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]     return handle_class(cls), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 438, in handle_class, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]     return tocall(*args), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]   File "/home/brijesh/matching_tool/dise_matching/match.wsgi", line 43, in GET, referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1]     fp1=csv.reader(open('../data/DISE.csv','r'),delimiter='|'), referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1] IOError: [Errno 2] No such file or directory: '../data/DISE.csv', referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:30:54 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8028/
+[Wed Jul 10 20:34:47 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2564, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
+[Wed Jul 10 20:35:01 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2563, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'., referer: http://0.0.0.0:8028/topframe
+[Wed Jul 10 20:35:01 2013] [info] [client 127.0.0.1] (32)Broken pipe: core_output_filter: writing data to the network
+[Wed Jul 10 21:10:41 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2794, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1] Traceback (most recent call last):, referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 239, in process, referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]     return self.handle(), referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 230, in handle, referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]     return self._delegate(fn, self.fvars, args), referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 462, in _delegate, referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]     return handle_class(cls), referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 438, in handle_class, referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]     return tocall(*args), referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]   File "/home/brijesh/matching_tool/dise_matching/match.wsgi", line 68, in GET, referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1]     getBoundaries(fp1,dise_district,dise_block,dise_cluster), referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1] NameError: global name 'getBoundaries' is not defined, referer: http://0.0.0.0:8028/
+[Wed Jul 10 21:10:41 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [info] [client 127.0.0.1] mod_wsgi (pid=1632, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1] Traceback (most recent call last):, referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 239, in process, referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]     return self.handle(), referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 230, in handle, referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]     return self._delegate(fn, self.fvars, args), referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 462, in _delegate, referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]     return handle_class(cls), referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]   File "/usr/local/lib/python2.7/dist-packages/web/application.py", line 438, in handle_class, referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]     return tocall(*args), referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]   File "/home/brijesh/matching_tool/dise_matching/match.wsgi", line 68, in GET, referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1]     getBoundaries(fp1,dise_district,dise_block,dise_cluster), referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1] NameError: global name 'getBoundaries' is not defined, referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [error] [client 127.0.0.1] , referer: http://0.0.0.0:8028/
+[Thu Jul 11 10:47:05 2013] [info] [client 127.0.0.1] mod_wsgi (pid=1633, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.
+[Thu Jul 11 11:00:42 2013] [info] [client 127.0.0.1] mod_wsgi (pid=2286, process='', application=''): Loading WSGI script '/home/brijesh/matching_tool/dise_matching/match.wsgi'.

@@ -10,6 +10,7 @@ function callpage(value){
 
 function change_focus(id,type,flag)
 {
+//	alert(id+' '+type+' '+flag);
 	var data='';
 	var element=document.getElementById(type);
 	if(type=='blk')

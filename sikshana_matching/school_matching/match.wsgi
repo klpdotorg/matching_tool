@@ -15,6 +15,9 @@ os.chdir(abspath)
 
 render = web.template.render('templates/')
 
+db1=web.database(dbn='postgres',user='postgres',pw='hello',db='sikshana')
+db2=web.database(dbn='postgres',user='klp',pw='chang3d1t',db='sikshana')
+
 urls = (
 	'/', 'index',
 	'/match','result',

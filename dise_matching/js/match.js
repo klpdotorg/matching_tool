@@ -68,7 +68,7 @@ function clicks(value,type){
 			var dise=document.getElementById('dise_value');
 			value_list= replaceAll(value.innerHTML,"<td>","");
 			value_list= replaceAll(value_list,"</td>","|");
-			value_list= value_list.substring(0,value_list.length-2);
+			value_list= value_list.substring(0,value_list.length-1);
                         //alert(value_list);
 			value_list= value_list.split("|");
 			dise.value=value_list.join("|");
@@ -77,7 +77,7 @@ function clicks(value,type){
 			var klp=document.getElementById('klp_value');
 			value_list= replaceAll(value.innerHTML,"<td>","");
 			value_list= replaceAll(value_list,"</td>","|");
-			value_list= value_list.substring(0,value_list.length-2);
+			value_list= value_list.substring(0,value_list.length-1);
                         //alert(value_list);
 			value_list= value_list.split("|");
 			klp.value=value_list.join("|");
@@ -85,7 +85,7 @@ function clicks(value,type){
 	}
 }
 
-function myfunction()
+function formsubmit()
 {
 	var x;
         var y=document.getElementById("dise_value").value.split("|");

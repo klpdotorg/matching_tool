@@ -2,6 +2,8 @@ function replaceAll(txt, replace, with_this) {
   return txt.replace(new RegExp(replace,'g'),with_this);
 }
 
+var klptb='';
+var siksh='';
 
 function filter(value){
 	
@@ -68,10 +70,11 @@ function clicks(value,type){
 			var sikshana=document.getElementById('sikshana_value');
 			value_list= replaceAll(value.innerHTML,"<td>","");
 			value_list= replaceAll(value_list,"</td>","|");
-			value_list= value_list.substring(0,value_list.length-2);
+			value_list= value_list.substring(0,value_list.length-1);
                         //alert(value_list);
 			value_list= value_list.split("|");
 			sikshana.value=value_list.join("|");
+			siksh=value;
 		}
 		else{
 			var klp=document.getElementById('klp_value');
@@ -81,24 +84,37 @@ function clicks(value,type){
                         //alert(value_list);
 			value_list= value_list.split("|");
 			klp.value=value_list.join("|");
+			klptb=value;
 		}
 	}
 }
 
-function myfunction()
+
+function form_submit1()
 {
-	var x;
-        var y=document.getElementById("sikshana_value").value.split("|");
-	var z=document.getElementById("klp_value").value.split("|");	
-	var r=confirm("Sure to match "+y[1].trim()+" and "+z[1]+" ?");
-	if (r==true)
+	var r=1;
+        //var y=document.getElementById("sikshana_value").value.split("|");
+	//var z=document.getElementById("klp_value").value.split("|");	
+	//var r=confirm("Sure to match "+y[1].trim()+" and "+z[1]+" ?");
+	if (r==1)
   	{
 		var data=document.URL.split("/");
 		document.getElementById("matched_value").value=data[data.length-3]+"|"+data[data.length-2]+"|"+data[data.length-1];
 		document.forms["form1"].submit();
 		
- 	 }
+ 	}
 	else
 	{
 	}
+}
+
+function form_submit() {
+	var klp=document.getElementById('klp_value1');
+	var sikshana=document.getElementById('sikshana_value1');
+	klp.value=klp.value+'&'+document.getElementById('klp_value').value;
+	sikshana.value=sikshana.value+'&'+document.getElementById('sikshana_value').value;
+	alert(klp.value);
+	alert(sikshana.value);
+	klptb.style.display='None';
+	siksh.style.display='None';
 }
